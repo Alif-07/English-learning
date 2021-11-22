@@ -1,0 +1,23 @@
+.banner {
+	background-image: url(../../../Images/4.jpg);
+	height: 520px;
+	width: 100%;
+
+	/* border: 1px solid red; */
+	background-blend-mode: overlay;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.title {
+	color: white;
+	font-weight: bold;
+	font-size: 59px;
+}
+.about-btn {
+	background-color: black;
+	outline: none;
+	border: none;
+	padding: 17px 34px;
+	color: white;
+}
